@@ -310,7 +310,7 @@ body {
     position: absolute;
     top: 100%;
     right: -100%;
-    background-color: #3d3a62;
+    background-color: #f1f0fa;
     width: 30rem;
     height: 100vh;
     transition: 0.3s;
@@ -383,3 +383,4 @@ body {
     width: 100%;
   }
 }
+
