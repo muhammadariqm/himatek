@@ -10,7 +10,6 @@ Website ini merupakan platform resmi HIMTEK yang bertujuan untuk:
 
 1. **Beranda**
    - Menampilkan banner dengan slogan: *Digital, Global, Integriti*
-   - Tombol "Daftar" untuk pendaftaran anggota baru
 
 2. **Tentang Kami**
    - Deskripsi HIMTEK dan logo resmi
