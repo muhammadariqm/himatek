@@ -367,6 +367,14 @@ body {
   .About-img {
     width: 100%;
   }
+
+  .Menu-card-img {
+	  width: 30%;
+  }
+
+  .Navbar {
+	  padding: 3.4rem 7%;
+  }  
 }
 /* MobilePhone */
 @media (max-width: 440px) {
@@ -383,5 +391,6 @@ body {
     width: 100%;
   }
 }
+
 
 
